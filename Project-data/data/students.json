@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Karina Pettersen",
+        
+        "program_id":1,
+        "img": "https://helenaagustsson.github.io/uni-data/images/student1.jpg"
+    },
+    {
+        "id":2,
+        "name":"Vilde Hansen",
+      
+        "program_id":2,
+        "img": "https://helenaagustsson.github.io/uni-data/images/student2.jpg"
+    },
+    {
+        "id":3,
+        "name": "Håkon Jensen",
+       
+        "program_id":3,
+        "img": "https://helenaagustsson.github.io/uni-data/images/student3.jpg"
+    },
+    {
+        "id":4,
+        "name": "Karoline Nyquist",
+        
+        "program_id":2,
+        "img": "https://helenaagustsson.github.io/uni-data/images/student4.jpg"
+    }
+]
